@@ -1,12 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Fabian</h1>
+<h2 align="center">Hi there 👋, I'm Fabian</h2>
 
-<h3 align="center">Feel free to have a look around here</h3>
+<h4 align="center">Feel free to have a look around here</h4>
 
 <p></p>
 
-[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  ![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
+</a>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=fabalexsie-test&color=red&style=flat-square" alt="Profile view counter" width="110"/>
 </a>
 
