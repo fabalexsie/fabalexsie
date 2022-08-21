@@ -1,10 +1,12 @@
-### Hi there 👋, I'm Fabian
+<h2 align="center">Hi there 👋, I'm Fabian</h2>
 
-Feel free to have a look around here
+<h3 align="center">Feel free to have a look around here</h3>
 
 [![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=fabalexsie-test&color=red&style=flat-square)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=fabalexsie-test&color=red&style=flat-square" alt="Profile view counter" width="198"/>
+</a>
 
 <!--
 **fabalexsie/fabalexsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
