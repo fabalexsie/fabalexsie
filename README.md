@@ -5,7 +5,7 @@
 <p></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  ![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
+  [![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)]
 </a>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
