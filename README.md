@@ -4,11 +4,9 @@
 
 <p></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  [![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)]
-</a>
+[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=fabalexsie-test&color=red&style=flat-square" alt="Profile view counter" width="110"/>
 </a>
 
