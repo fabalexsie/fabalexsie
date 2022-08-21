@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fabalexsie/fabalexsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
