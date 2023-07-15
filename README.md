@@ -7,7 +7,8 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/fabalexsie/fabalexsie/snk_output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/fabalexsie/fabalexsie/snk_output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fabalexsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabalexsie&count_private=true&rank_icon=percentile&hide_rank=true&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- private only possible with own instance -->
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=fabalexsie&color=red&style=flat-square" alt="Profile view counter" width="110"/>
