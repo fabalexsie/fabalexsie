@@ -29,9 +29,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
             dist/github-contribution-grid-snake-dark.svg?color_snake=#800080&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
-          env:
-            # a github token is required to fetch the contribution calendar from github API
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          # a github token is required to fetch the contribution calendar from github API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
