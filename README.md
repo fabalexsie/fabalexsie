@@ -17,10 +17,6 @@
   <!-- private only possible with own instance -->
 </p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=fabalexsie&color=red&style=flat-square" alt="Profile view counter" width="110"/>
-</a>
-
 <!--
 **fabalexsie/fabalexsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
